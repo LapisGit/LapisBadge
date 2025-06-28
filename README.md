@@ -1,5 +1,9 @@
 # LapisBadge
-open-source "hackbadge" for hack club's highway.
+Open-Source "hackbadge" for Hack Club's Highway.
+
+This serves as a way to learn my name, or for myself to cycle through and check the time, weather, etc.
+
+It allows for talking to people to start and continue much faster, and that is especially needed if I go to Undercity.
 
 ## But Lapis, Why?!?
 I was scrolling through the Highway site, just as I submitted my HackPad, and I saw the "Hack Badge" idea listed, and I wondered, "what the hell is a hack badge??" so I found the images provided, and holy crap they look cool. So I decided, if I'm actually going to be going to Undercity, why not go in style!!
