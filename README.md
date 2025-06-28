@@ -29,3 +29,12 @@ I was scrolling through the Highway site, just as I submitted my HackPad, and I 
 *(untested and unfinished, will stay that way until i can actually test on hardware lol)*
 
 ![Screenshot 2025-06-27 200701](https://github.com/user-attachments/assets/3e8a4e23-c8c6-4eb7-a5ca-32d1e939c5f6)
+
+# BOM:
+
+| Product Name        | Price                            | Quantity | Store Page                                                                                                                                                                                                                       |
+|---------------------|----------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0.91in OLED Display | $1.68                            | 1        | [Aliexpress](https://www.aliexpress.us/item/3256808211699975.html?isdl=y&albch=shopping&acnt=135095331&albcp=555220768&albag=1309519513086509&slnk=&trgt=pla-2333644710812054&plac=&crea=81845026508678&netw=s&device=c&mtctp=e) |
+| Seeed XIAO RP2040   | $7.32                            | 1        | [Aliexpress](https://www.aliexpress.us/item/3256808014602728.html?isdl=y&albch=shopping&acnt=135095331&albcp=555220768&albag=1309519513086509&slnk=&trgt=pla-2333644710812054&plac=&crea=81845026508678&netw=s&device=c&mtctp=e) |
+| PCB                 | $10.04 (calculated with gerbers) | 1        | [PCBWay (Global Standard Shipping)](https://www.pcbway.com/)                                                                                                                                                                     |
+| Case                | $9.96                            | 1        | [PCBWay](https://www.pcbway.com/)                                                                                                                                                                                                |
