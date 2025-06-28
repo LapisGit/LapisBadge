@@ -1,6 +1,9 @@
 # LapisBadge
 open-source "hackbadge" for hack club's highway.
 
+## But Lapis, Why?!?
+I was scrolling through the Highway site, just as I submitted my HackPad, and I saw the "Hack Badge" idea listed, and I wondered, "what the hell is a hack badge??" so I found the images provided, and holy crap they look cool. So I decided, if I'm actually going to be going to Undercity, why not go in style!!
+
 # CAD:
 
 ![Screenshot 2025-06-27 195535](https://github.com/user-attachments/assets/28034892-b206-4e98-8b9f-d44161cbb8c6)
