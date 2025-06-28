@@ -3,6 +3,7 @@ title: "LapisBadge"
 author: "Lapis"
 description: "A tiny, portable open-source 'hack' badge that you can wear, and program to show whatever you can make!"
 created_at: "2025-06-27"
+total_time_spent: "~3-4.5hrs"
 ---
 
 # June 27th: Started and finished designing the PCB and case!
@@ -22,7 +23,7 @@ Here's some images!
 ![Screenshot 2025-06-27 181520](https://github.com/user-attachments/assets/8194b5e8-565a-4d04-a741-f37a00e79612)
 
 
-**Total time spent: ~2-3.5h**
+**Total time spent: ~2-3.5hrs**
 
 # June 27th Part 2!!!!!!: Firmware
 
@@ -30,4 +31,4 @@ I'm going to be honest, this 100% WILL NOT work right out of the box lol, the pr
 
 ![Screenshot 2025-06-27 200701](https://github.com/user-attachments/assets/bd8d583d-da23-4a81-b3e6-c5cbe4989302)
 
-**Total time spent: ~1h**
+**Total time spent: ~1hr**
