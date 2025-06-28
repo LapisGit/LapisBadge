@@ -5,7 +5,7 @@ This serves as a way to learn my name, or for myself to cycle through and check 
 
 It allows for talking to people to start and continue much faster, and that is especially needed if I go to Undercity.
 
-## But Lapis, Why?!?
+## But Lapis, how did you come up with this?!?
 I was scrolling through the Highway site, just as I submitted my HackPad, and I saw the "Hack Badge" idea listed, and I wondered, "what the hell is a hack badge??" so I found the images provided, and holy crap they look cool. So I decided, if I'm actually going to be going to Undercity, why not go in style!!
 
 # CAD:
