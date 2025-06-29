@@ -3,7 +3,7 @@ title: "LapisBadge"
 author: "Lapis"
 description: "A tiny, portable open-source 'hack' badge that you can wear, and program to show whatever you can make!"
 created_at: "2025-06-27"
-total_time_spent: "~3-4.5hrs"
+total_time_spent: "~4.5-6hrs"
 ---
 
 # June 27th: Started and finished designing the PCB and case!
@@ -41,5 +41,6 @@ I reset the case model lol, it was too confusing, and so I started work on a new
 
 ![Screenshot 2025-06-29 084459](https://github.com/user-attachments/assets/43a9da86-b49e-48e0-b5d7-1828d7178937)
 
+**Total time spend: ~1.5hrs**
 
 
