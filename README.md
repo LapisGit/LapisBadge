@@ -10,10 +10,7 @@ I was scrolling through the Highway site, just as I submitted my HackPad, and I 
 
 # CAD:
 
-![Screenshot 2025-06-27 195535](https://github.com/user-attachments/assets/28034892-b206-4e98-8b9f-d44161cbb8c6)
-
-
-![Screenshot 2025-06-27 191543](https://github.com/user-attachments/assets/d7cb3bf5-8092-4143-b5cf-f50379974151)
+![Screenshot 2025-06-29 092553](https://github.com/user-attachments/assets/028d5fcd-a6e4-4589-95d8-e43156e96775)
 
 
 # PCB:
@@ -31,11 +28,13 @@ I was scrolling through the Highway site, just as I submitted my HackPad, and I 
 ![Screenshot 2025-06-27 200701](https://github.com/user-attachments/assets/3e8a4e23-c8c6-4eb7-a5ca-32d1e939c5f6)
 
 # BOM:
-
 | Product Name            | Price                            | Quantity | Store Page                                                                                                                                                                                                                       |
 |-------------------------|----------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 0.91in OLED Display     | $1.68                            | 1        | [Aliexpress](https://www.aliexpress.us/item/3256808211699975.html?isdl=y&albch=shopping&acnt=135095331&albcp=555220768&albag=1309519513086509&slnk=&trgt=pla-2333644710812054&plac=&crea=81845026508678&netw=s&device=c&mtctp=e) |
 | Seeed XIAO RP2040       | $7.32                            | 1        | [Aliexpress](https://www.aliexpress.us/item/3256808014602728.html?isdl=y&albch=shopping&acnt=135095331&albcp=555220768&albag=1309519513086509&slnk=&trgt=pla-2333644710812054&plac=&crea=81845026508678&netw=s&device=c&mtctp=e) |
 | PCB                     | $10.04 (calculated with gerbers) | 1        | [PCBWay (Global Standard Shipping)](https://www.pcbway.com/)                                                                                                                                                                     |
 | Case                    | $9.96                            | 1        | [PCBWay](https://www.pcbway.com/)                                                                                                                                                                                                |
-| Estimated Overall Price | ~29$                             | N/A      | N/A                                                                                                                                                                                                                              |
+| Blank DSA Keycap        | $1.75                            | 1        | [Aliexpress](https://www.aliexpress.us/item/3256807965011039.html?isdl=y&albch=shopping&acnt=135095331&albcp=554961410&albag=1299623884422788&slnk=&trgt=pla-4584826057675486&plac=&crea=81226547867988&netw=s&device=c&mtctp=e) |
+| MX-Style switch         | $0.99                            | 1        | [Aliexpress](https://www.aliexpress.us/item/3256802192387196.html?utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=20250629063600799914169269810002253870_1)                                                             |
+| M3x16mm Screws          | $3.20                            | 1        | [Aliexpress](https://www.aliexpress.us/item/2251832655084301.html?productId=2251832655084301)                                                                                                                                    |
+| Estimated Overall Price | ~35$                             | N/A      | N/A                                                                                                                                                                                                                              |
