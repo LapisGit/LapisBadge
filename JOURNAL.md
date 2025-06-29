@@ -32,3 +32,14 @@ I'm going to be honest, this 100% WILL NOT work right out of the box lol, the pr
 ![Screenshot 2025-06-27 200701](https://github.com/user-attachments/assets/bd8d583d-da23-4a81-b3e6-c5cbe4989302)
 
 **Total time spent: ~1hr**
+
+
+# June 28th: CAD Reset
+
+I reset the case model lol, it was too confusing, and so I started work on a new one! Here's the bottom!
+(i forgot to log this yesterday, oops)
+
+![Screenshot 2025-06-29 084459](https://github.com/user-attachments/assets/43a9da86-b49e-48e0-b5d7-1828d7178937)
+
+
+
